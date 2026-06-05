@@ -1,6 +1,6 @@
 # office-multi-file-timer
 office多文件批量精准控时器，支持关闭重置与手动延迟启动
-# 🕒 Office Multi-File Precision Timer (Office多文件批量精准控时器)
+# 🕒 Office Multi-File Precision Timer (Office多文件批量控时器)
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Platform](https://img.shields.io/badge/platform-windows-lightgrey.svg)](https://www.microsoft.com/)
